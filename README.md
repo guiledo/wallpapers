@@ -134,6 +134,8 @@
 
 <a href="pics/a_woman_standing_in_front_of_a_window.jpg"><img alt="a_woman_standing_in_front_of_a_window" src="pics/a_woman_standing_in_front_of_a_window.jpg"></a>
 
+<a href="pics/archlinux-logo-center.png"><img alt="archlinux-logo-center" src="pics/archlinux-logo-center.png"></a>
+
 <a href="pics/beautiful-shot-snowy-mountain-sunset.jpg"><img alt="beautiful-shot-snowy-mountain-sunset" src="pics/beautiful-shot-snowy-mountain-sunset.jpg"></a>
 
 <a href="pics/brown-wooden-house-lake-near-mountain.jpg"><img alt="brown-wooden-house-lake-near-mountain" src="pics/brown-wooden-house-lake-near-mountain.jpg"></a>
@@ -143,6 +145,8 @@
 <a href="pics/futuristic-moon-background.jpg"><img alt="futuristic-moon-background" src="pics/futuristic-moon-background.jpg"></a>
 
 <a href="pics/island-night-moon-scenery-digital-art-8k-wallpaper-uhdpaper.com-289@0@j.jpg"><img alt="island-night-moon-scenery-digital-art-8k-wallpaper-uhdpaper.com-289@0@j" src="pics/island-night-moon-scenery-digital-art-8k-wallpaper-uhdpaper.com-289@0@j.jpg"></a>
+
+<a href="pics/samurai-drawing-blackandwhite.png"><img alt="samurai-drawing-blackandwhite" src="pics/samurai-drawing-blackandwhite.png"></a>
 
 <a href="pics/stars_in_the_sky_at_night.png"><img alt="stars_in_the_sky_at_night" src="pics/stars_in_the_sky_at_night.png"></a>
 
