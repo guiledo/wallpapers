@@ -56,7 +56,7 @@
 
 <a href="pics/city_with_tall_buildings_in_the_fog_01.png"><img alt="city_with_tall_buildings_in_the_fog_01" src="pics/city_with_tall_buildings_in_the_fog_01.png"></a>
 
-<a href="pics/close_up_of_a_bird's_back.jpeg"><img alt="close_up_of_a_bird's_back" src="pics/close_up_of_a_bird's_back.jpeg"></a>
+<a href="pics/close_up_of_a_birds_back.jpeg"><img alt="close_up_of_a_birds_back" src="pics/close_up_of_a_birds_back.jpeg"></a>
 
 <a href="pics/colorful_buildings_with_power_lines.jpg"><img alt="colorful_buildings_with_power_lines" src="pics/colorful_buildings_with_power_lines.jpg"></a>
 
